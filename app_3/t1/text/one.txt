@@ -1,0 +1,16 @@
+This project is a desktop version of the regex101.com site. It embeds a copy of the site inside the application so that no internet connection is required to work on regular expressions. The motivation behind this was that when developing regular expressions for use in products, I often find myself opening the website again and again, resulting in many tabs in various states swamped in the sea of web pages.
+
+By embedding the website in an application, regex101 can be accessed immediately from your task bar, no more searching through tabs to find the right one!
+
+In addition, the software redirects the regex101.com online database to a local SQLite database, so you can store your own personal library of regular expressions inside the application.
+
+This is not an official regex101 product, but the author of the site gave his permission for me to release this application, so please support his hard work by making a donation if you find this application useful.
+
+Installation
+Binary distributions can be found under the assets on the github releases page.
+
+Windows. The application is supplied as an installer executable, download and run the installer to install the application, this will create a shortcut which can be used to launch the software.
+
+macOS. The application is supplied as a dmg disk image. Download and open the disk image and drag the Regular Expressions 101 icon into the Applications folder, the application can then be launched by double clicking on the Regular Expressions 101 icon in Applications.
+
+Linux. The application is supplied as an AppImage. Download the application and then from the terminal run the command:

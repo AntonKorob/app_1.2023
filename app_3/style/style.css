@@ -1,0 +1,147 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+body{
+    background-image: url(https://avatars.mds.yandex.net/i?id=5d51120e264f6a89e79644977b690ab437e504b3-6428875-images-thumbs&n=13);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+div{
+    height:auto;
+    margin: 22px;
+    padding: 22px;
+    border-radius: 12px;
+     
+   
+}
+a{
+    direction:unset;
+    padding: 22px;
+    margin: 22px;
+    align-items: center;
+    text-decoration: none;
+
+}
+nav{
+    display: inline;
+    
+}
+button{
+    border-radius: 12px;
+    margin-left: 222px;
+    padding: 28px;
+    background: rgb(155, 238, 146);
+}
+input{
+    display: flex;
+    margin: 52px;
+    padding: 12px;
+    width: 422px;
+    border-radius: 12px;
+    
+    
+}
+img{
+    width: 80%;
+    border-radius: 32px;
+    margin-left: 42px;
+}
+button{
+    padding: 22px;
+    margin: 122px;
+}
+
+textarea{
+
+    padding: 22px;
+    font-size: 18px;
+}
+/* hover */
+a, 
+input
+:hover{
+    color: rgb(91, 201, 245);
+        
+}
+
+/* class */
+.date{
+    text-align: right;
+    
+}
+.content{
+   
+    display: flex;
+    
+    background-image: url(https://avatars.mds.yandex.net/i?id=5edd97f8f8888d7b99bcf3d0230d0eaa7fca9b16-4667955-images-thumbs&n=13);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.conteiner{
+    width: 90%;
+    height: auto;
+    
+}
+
+.footer, .nav{
+    width: 100%;
+    text-align: center;
+    background-image: url(https://avatars.mds.yandex.net/i?id=077ee83ca2aa1277ecc6b739ee874ada5d8eb9c9-8178526-images-thumbs&n=13);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.text_1,
+.text_2,
+.text_3,
+.text_4{
+    height: 266px;
+    font-size: 20px;
+        border: 2px solid rgb(48, 37, 201);
+}
+.h2_title{
+text-align: center;
+}
+.contacts{
+text-align: center;
+
+
+
+}
+.btn_go_back{
+    background-color: rgb(228, 73, 73);
+    margin-left: 322px;
+}
+
+.discription, .img_logo{
+    width: 40%;
+    height: 50%;
+    margin-left: 222px;
+    
+}
+.Hello_app{
+    width: 40%;
+    height: 233px;
+    background: rgb(133, 211, 232);
+    margin: 91px;
+    padding: 62px;
+}
+
+.open_file{
+    border: 2px solid firebrick;
+}
+#btn-login{
+    align-items: center;
+    display: flex;
+    justify-items:flex-start;
+    color :rgb(48, 37, 201)
+    
+}
+#connt_img_logo{
+    display: inline;
+    float:right;
+    
+}
+
